@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/button_test_array_add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_test_list_add"/>
+
+        <Button
+            android:id="@+id/button_test_array_sort"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_test_list_sort"/>
+
+        <Button
+            android:id="@+id/button_test_string"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_test_strings"/>
+
+        <Button
+            android:id="@+id/button_test_classes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_test_classes"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

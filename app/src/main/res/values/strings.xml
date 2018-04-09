@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Kotlin Test</string>
+
+    <string name="title_tests">Tests</string>
+    <string name="title_web_sockets">Web Socket</string>
+    <string name="title_drawing">Drawing</string>
+    <string name="title_json_mapping">Json Mapping</string>
+
+    <string name="title_random_users">Random Users</string>
+    <string name="activity_main_title">Kotlin Tests</string>
+
+
+    <string name="button_test_list_add">Test List Add</string>
+    <string name="button_test_list_sort">Test List Sort</string>
+    <string name="button_test_strings">Test Strings</string>
+    <string name="button_test_classes">Test Classes</string>
+
+    <string name="activity_test_button_iterations">Default</string>
+    <string name="activity_test_button_run_test">Run Test</string>
+    <string name="activity_test_iterations_field_hint">Number of test iterations</string>
+    <string name="activity_test_textView_description">Result in seconds:</string>
+
+    <string name="activity_test_title_list_add">List Add Test</string>
+    <string name="activity_test_title_list_sort">List Sort Test</string>
+    <string name="activity_test_title_strings">String Test</string>
+    <string name="activity_test_title_class">Class Test</string>
+
+    <string name="fragment_web_socket_message_button">Send Message</string>
+    <string name="fragment_web_socket_received_description">Received messages:</string>
+    <string name="fragment_web_socket_button_connection_connect">Connect</string>
+    <string name="fragment_web_socket_button_connection_disconnect">Disconnect</string>
+    <string name="fragment_web_socket_no_connection">Please Connect First</string>
+
+    <string name="clear_button">Clear</string>
+
+    <string name="fragment_drawing_brush_size_description">Brush size:</string>
+    <string name="fragment_drawing_brush_size_small">Small</string>
+    <string name="fragment_drawing_brush_size_medium">Medium</string>
+    <string name="fragment_drawing_brush_size_large">Large</string>
+
+    <string name="fragment_random_user_get_new_button">Get New User</string>
+    <string name="fragment_random_user_name_description">Name</string>
+    <string name="fragment_random_user_last_name_description">Last Name</string>
+    <string name="fragment_random_user_title_description">Title</string>
+    <string name="fragment_random_user_gender_description">Gender</string>
+    <string name="fragment_random_user_city_description">City</string>
+    <string name="fragment_random_user_street_description">Street</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

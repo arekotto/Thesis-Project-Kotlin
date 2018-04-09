@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tests"
+        android:icon="@drawable/ic_alarm_on_black_24px"
+        android:title="@string/title_tests"/>
+
+    <item
+        android:id="@+id/navigation_web_sockets"
+        android:icon="@drawable/ic_import_export_black_24px"
+        android:title="@string/title_web_sockets"/>
+
+    <item
+        android:id="@+id/navigation_drawing"
+        android:icon="@drawable/ic_create_black_24px"
+        android:title="@string/title_drawing"/>
+
+    <item
+        android:id="@+id/navigation_json_mapping"
+        android:icon="@drawable/ic_http_black_24px"
+        android:title="@string/title_json_mapping"/>
+
+</menu>
